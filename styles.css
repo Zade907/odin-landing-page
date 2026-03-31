@@ -147,3 +147,12 @@ a {
   padding: 4px 32px;
   border-radius: 8px;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0;
+}
