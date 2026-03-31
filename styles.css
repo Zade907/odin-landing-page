@@ -30,7 +30,6 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding: 16px 0; */
   margin-bottom: 128px;
 }
 
@@ -127,4 +126,24 @@ a {
   font-size: 24px;
   display: flex;
   justify-content: flex-end;
+}
+
+.body-four {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 72px 180px;
+  padding: 32px 42px;
+  background-color: #3882f6;
+  border-radius: 10px;
+  color: #f9faf8;
+}
+
+.body-four .sign-up {
+  font-weight: 700;
+  color: #f9faf8;
+  border: 2px Solid #f9faf8;
+  background-color: #3882f6;
+  padding: 4px 32px;
+  border-radius: 8px;
 }
